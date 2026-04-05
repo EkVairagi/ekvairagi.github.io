@@ -1,4 +1,4 @@
 google.com, pub-8558345860620244, DIRECT, f08c47fec0942fa0
-applovin.com, , DIRECT
-facebook.com, , RESELLER
-inmobi.com, , RESELLER
+applovin.com, 51e01c1fa82343af2428dcc54a18ce7a, DIRECT
+facebook.com, 2118606355090852, RESELLER
+inmobi.com, c14f28dbff4e4c8db4d0f0b90c190611, RESELLER
